@@ -15,5 +15,6 @@ This project features an HR Attrition Dashboard created using Microsoft Power BI
 ![DASHBOARD2 ( TURNOVER ANALYSIS 1)](https://github.com/biccoomondi/HR-DATA-ANALYSIS-USING-POWER-BI/assets/170850731/fb662f32-74dd-4287-b916-ab9b6d9c878a)
 
 ## Turnover Analysis II
+![DASHBOARD3(TURNOVER ANALYSIS2)](https://github.com/biccoomondi/HR-DATA-ANALYSIS-USING-POWER-BI/assets/170850731/5195ff66-2115-47f8-aa8c-5b9b893081b2)
 
 ## Employee Wellness
