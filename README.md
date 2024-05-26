@@ -9,6 +9,7 @@ This project features an HR Attrition Dashboard created using Microsoft Power BI
 - **Turnover Analysis II**: A consolidated report that features attrition by job level, overtime performance ratings, monthly income, and attrition increase levels. It offers critical insights for HR strategies and decision-making.
 - **Employee Wellness**: A report focused on employee well-being, providing data on wellness programs and their impact on employee retention and satisfaction.
 ## Demographics
+![DASHBOARD1 (DEMOGRAPHICS)](https://github.com/biccoomondi/HR-DATA-ANALYSIS-USING-POWER-BI/assets/170850731/29a96f76-bb4f-466c-8e70-cd313bb4ea82)
 ## Features
 - **Demographics**: 
   - **Total Employees**: Displays the total number of employees.
