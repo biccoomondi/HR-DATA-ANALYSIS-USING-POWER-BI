@@ -1,5 +1,5 @@
 ## Description
-This project features an HR Attrition Dashboard created using Microsoft Excel. It offers a detailed analysis of employee demographics, turnover, and wellness. The dashboard helps HR professionals understand workforce diversity, attrition trends, and employee well-being, providing actionable insights for decision-making.
+This project features an HR Attrition Dashboard created using Microsoft Power BI. It offers a detailed analysis of employee demographics, turnover, and wellness. The dashboard helps HR professionals understand workforce diversity, attrition trends, and employee well-being, providing actionable insights for decision-making.
 
 ## Features
 - **Demographics**: A report summarizing employee statistics, including age groups, gender, distance from home, and marital status. This helps in understanding workforce diversity and commuting patterns.
