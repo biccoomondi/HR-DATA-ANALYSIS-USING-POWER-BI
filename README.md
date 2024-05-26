@@ -26,4 +26,17 @@ This project features an HR Attrition Dashboard created using Microsoft Power BI
 
 ## Turnover Analysis II
 
+### Dashboard Overview
+The dashboard is divided into several sections to provide a comprehensive view of employee turnover:
+1. **Monthly Income and Attrition by Job Role**
+   - This line chart shows the relationship between monthly income and attrition count across different job roles. It helps identify which job roles have higher turnover rates and how income levels correlate with attrition.
+2. **Total Attrition Over Time**
+   - This bar chart displays the total attrition count over a specified time period. It helps in understanding the trend of employee turnover over time.
+3. **Total Attrition by Performance Rating**
+   - This pie chart breaks down the attrition count by performance rating, indicating whether employees with high or low performance ratings are more likely to leave.
+4. **Total Attrition by Job Title**
+   - This bar chart categorizes attrition by job title, highlighting which job levels (e.g., entry-level, junior, senior) experience the most turnover.
+5. **Total Attrition by Age and Gender**
+   - This grouped bar chart analyzes attrition based on age groups and gender, providing insights into demographic factors influencing turnover.
+
 ## Employee Wellness
