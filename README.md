@@ -9,6 +9,16 @@ This project features an HR Attrition Dashboard created using Microsoft Power BI
 - **Turnover Analysis II**: A consolidated report that features attrition by job level, overtime performance ratings, monthly income, and attrition increase levels. It offers critical insights for HR strategies and decision-making.
 - **Employee Wellness**: A report focused on employee well-being, providing data on wellness programs and their impact on employee retention and satisfaction.
 ## Demographics
+## Features
+- **Demographics**: 
+  - **Total Employees**: Displays the total number of employees.
+  - **Sum of Attrition Count**: Shows the total number of employees who have left the organization.
+  - **Gender Employee Attrition**: A pie chart showing attrition distribution by gender.
+  - **Total Attrition by Education Field**: A bar chart displaying attrition counts across different education fields.
+  - **Total Attrition by Age**: A bar chart showing attrition distribution across different age groups.
+  - **Total Attrition by Distance from Home**: A bar chart depicting attrition based on employees' commuting distances.
+  - **Total Attrition by Work-Life Balance**: A bar chart that shows attrition based on work-life balance ratings.
+  - **Total Attrition by Marital Status**: A bar chart showing attrition distribution by marital status.
 
 ## Turnover Analysis I
 
