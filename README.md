@@ -1,3 +1,5 @@
+## HR Attrition Dashboard
+![HR ATTRITION DASHBOARD](https://github.com/biccoomondi/HR-DATA-ANALYSIS-USING-POWER-BI/assets/170850731/71074ffc-838d-46de-bc67-96f75f79e86e)
 ## Description
 This project features an HR Attrition Dashboard created using Microsoft Power BI. It offers a detailed analysis of employee demographics, turnover, and wellness. The dashboard helps HR professionals understand workforce diversity, attrition trends, and employee well-being, providing actionable insights for decision-making.
 
