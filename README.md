@@ -22,6 +22,7 @@ This project features an HR Attrition Dashboard created using Microsoft Power BI
   - **Total Attrition by Marital Status**: A bar chart showing attrition distribution by marital status.
 
 ## Turnover Analysis I
+![DASHBOARD2 ( TURNOVER ANALYSIS 1)](https://github.com/biccoomondi/HR-DATA-ANALYSIS-USING-POWER-BI/assets/170850731/fb662f32-74dd-4287-b916-ab9b6d9c878a)
 
 ## Turnover Analysis II
 
